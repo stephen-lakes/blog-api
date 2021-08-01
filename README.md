@@ -8,4 +8,4 @@
 ![api post list](assets/images/post-list.png)
 ![api detail list](assets/images/post-detail.png)
 
-<img src="assets/images/post-detail.png" data-canonical-src="" width="200" height="400" />
+<img src="assets/images/post-detail.png" data-canonical-src="" width="50%" height="50%" />
