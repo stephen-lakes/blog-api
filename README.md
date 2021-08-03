@@ -1,16 +1,8 @@
 # Blog Api
 
-<div float="left">
+<img align="left" src="assets/images/api-register.png" width="40%" height="40%" />
+<img align="left" src="assets/images/api-login.png" width="40%" height="40%" />
+<img align="left" src="assets/images/admin.png" width="40%" height="40%" />
+<img align="left" src="assets/images/post-detail.png" width="40%" height="40%" />
+<img align="" src="assets/images/post-list.png" width="40%" height="40%" />
 
-    <img src="assets/images/admin.png" data-canonical-src="" width="50%" height="50%" />
-
-    <img src="assets/images/admin-auth-token.png" data-canonical-src="" width="50%" height="50%" />
-
-    <img src="assets/images/api-login.png" data-canonical-src="" width="50%" height="50%" />
-
-    <img src="assets/images/api-register.png" data-canonical-src="" width="50%" height="50%" />
-
-    <img src="assets/images/post-list.png" data-canonical-src="" width="50%" height="50%" />
-
-    <img src="assets/images/post-detail.png" data-canonical-src="" width="50%" height="50%" />
-</div>
