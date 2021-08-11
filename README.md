@@ -1,7 +1,7 @@
 # Blog Api
 
 
-[//]: # (Tables)
+[//]: # (Table)
 
 Blog API with DRF| Django REST Framework
 ------------ | -------------
